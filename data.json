@@ -1,0 +1,50 @@
+[
+    {
+        "offerId": 123,
+        "productTitle": "Coffee machine",
+        "vendorId": 35,
+        "price": 390.4,
+        "stock": 235
+    },
+    {
+        "offerId": 124,
+        "productTitle": "Napkins",
+        "vendorId": 35,
+        "price": 15.5,
+        "stock": 1125
+    },
+    {
+        "offerId": 125,
+        "productTitle": "Chair",
+        "vendorId": 84,
+        "price": 230.0,
+        "stock": 58
+    },
+    {
+        "offerId": 126,
+        "productTitle": "TV",
+        "vendorId": 64,
+        "price": 230.0,
+        "stock": 3
+    },
+    {
+        "offerId": 127,
+        "productTitle": "Computer",
+        "vendorId": 64,
+        "price": 230.0,
+        "stock": 0
+    },
+    {
+        "offerId": 128,
+        "productTitle": "Radio",
+        "vendorId": 24,
+        "price": 230.0,
+        "stock": 2
+    },    {
+        "offerId": 129,
+        "productTitle": "Mirror",
+        "vendorId": 24,
+        "price": 230.0,
+        "stock": 0
+    }
+]
