@@ -190,16 +190,6 @@ switch ($function_name) {
     }
 }
 
-class OfferTest extends \vendor\PHPUnit\Framework\TestCase {
-    public function count_by_vendor_id(){
-        
-        $json_reader = new Reader();
-
-        $offer->vendorId = "1";
-
-        $this->assertEquals('1');
-    }
-}
 
 
 
