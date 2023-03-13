@@ -1,6 +1,6 @@
 # About
 
-This is a test assignment for a Junior PHP Developer job position. The task was to create a CLI script that will read JSON based file from the specific HTTP endpoint using any framework or no framework at all.
+The task was to create a CLI script that will read JSON based file from the specific HTTP endpoint using any framework or no framework at all.
 
 #Instruction
 1. Copy repository files
